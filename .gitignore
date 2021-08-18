@@ -2,5 +2,6 @@ __pycash__/
 *.pyc
 .idea/
 
+test.txt
 db.sqlite3
 projeto6/settings.py
